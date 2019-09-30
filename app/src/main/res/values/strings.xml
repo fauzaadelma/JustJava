@@ -1,0 +1,15 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">justjava</string>
+
+    <!-- Header text for the list of toppinga [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+    <!-- Header text for the list of quantity [CHAR LIMIT=NONE] -->
+    <string name="quantity">Quantity</string>
+    <!-- Header text for the list of order [CHAR LIMIT=20] -->
+    <string name="order">Order</string>
+    <!-- Header text for the list of whipped cream [CHAR LIMIT=NONE] -->
+    <string name="whipped_cream">Whipped Cream</string>
+    <!-- Header text for the list of chocolate [CHAR LIMIT=NONE] -->
+    <string name="chocolate">Chocolate</string>
+
+</resources>
